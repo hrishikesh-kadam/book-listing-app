@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <string name="search">Search</string>
+
+    <string name="baseUrl">https://www.googleapis.com/books/v1/volumes?q=</string>
+    <string name="key">&amp;key=AIzaSyDqLdofCWIE7_TruCmG4Rcdijhd6K1F0qY</string>
+
+    <string name="noResultFound">No books found.</string>
+    <string name="noConnection">No internet connection.</string>
+</resources>
